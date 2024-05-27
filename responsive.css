@@ -1,0 +1,422 @@
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+  /* global css code  */
+  h1 {
+    font-family: "Manrope";
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 55px;
+  }
+
+  h2 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+  }
+
+  h3 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  h4 {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 30px;
+  }
+  p {
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+  }
+  .f-h1 {
+    font-size: 35px !important;
+    font-weight: 700;
+    line-height: 45px;
+  }
+  .main-dashboard-content-box {
+    margin-top: 0;
+  }
+  .fs14 {
+    font-size: 11px;
+  }
+  .main-dashboard-content-box .flex-main-data .main-box {
+    width: 48%;
+  }
+  .main-box .graph-box,
+  .graph-box-new,
+  .graph-box-new-avts,
+  .graph-box-new-uild,
+  .graph-box-new-sml {
+    width: 100%;
+    padding: 10px 10px 30px 10px;
+  }
+  .graph-box-new .tab-new,
+  .graph-box-new-avts .tab-new,
+  .graph-box-new-uild .tab-new,
+  .graph-box-new-sml .tab-new {
+    padding: 4px 3px;
+    font-size: 9px;
+  }
+  .main-box .graph-box .tab {
+    padding: 4px 3px;
+    font-size: 9px;
+  }
+  .main-box .graph-box .tabs,
+  .graph-box-new .tabs-new,
+  .graph-box-new-avts .tabs-new,
+  .graph-box-new-uild .tabs-new,
+  .graph-box-new-sml .tabs-new {
+    bottom: 0;
+  }
+  .main-dashboard-content-box .flex-main-data {
+    flex-wrap: wrap;
+  }
+  .find-address-box,
+  footer .contact-details {
+    text-align: center;
+  }
+  .main-icons-box {
+    padding: 8px;
+  }
+  .main-employee-page-box{
+    margin-top: 0;
+  }
+  .main-icons-box {
+    padding: 5px;
+  }
+  
+  
+  
+  
+  .main-users-box-arc{
+      height: 75px;
+      width: 100%;
+      margin-top: 0!important;
+  }
+  .tab-respinsive{
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+  }
+  .chart-container{
+      width: 150px!important;
+      height: 150px!important;
+  }
+  .othercontent-out{
+      right: -115%;
+  }
+  .intxtchart{
+      font-size: 14px;
+      margin-bottom: 0!important;
+  }
+  .dotcls{
+      width: 10px;
+      height: 10px;
+  }
+  
+  .main-employee-page-box .box-rates{
+      padding: 10px;
+  }
+  .main-employee-page-box .box-rates .fs20{
+      font-size: 16px!important;
+  }
+  .recenlty-addded-box{
+      height: 200px;
+      padding: 20px 16px;
+      margin-bottom: 18px;
+  }
+  .add-employee-search .ovay{
+      height: 250px;
+  }
+
+}
+
+@media only screen and (min-width: 10px) and (max-width: 767px) {
+  /* global css code  */
+  h1 {
+    font-family: "Manrope";
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 40px;
+  }
+
+  h2 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+  }
+
+  h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  h4 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+  }
+  p {
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+  }
+  .f-h1 {
+    font-size: 28px !important;
+    font-weight: 700;
+    line-height: 40px;
+  }
+
+  .main-dashboard-content-box {
+    margin-top: 0;
+  }
+  .fs14 {
+    font-size: 11px;
+  }
+  .main-dashboard-content-box .flex-main-data .main-box {
+    width: 100%;
+  }
+  .main-box .graph-box,
+  .graph-box-new,
+  .graph-box-new-avts,
+  .graph-box-new-uild,
+  .graph-box-new-sml {
+    width: 100%;
+    padding: 10px 10px 30px 10px;
+  }
+  .graph-box-new .tab-new,
+  .graph-box-new-avts .tab-new,
+  .graph-box-new-uild .tab-new,
+  .graph-box-new-sml .tab-new {
+    padding: 4px 3px;
+    font-size: 9px;
+  }
+  .main-box .graph-box .tab {
+    padding: 4px 3px;
+    font-size: 9px;
+  }
+  .main-box .graph-box .tabs,
+  .graph-box-new .tabs-new,
+  .graph-box-new-avts .tabs-new,
+  .graph-box-new-uild .tabs-new,
+  .graph-box-new-sml .tabs-new {
+    bottom: 0;
+  }
+  .main-dashboard-content-box .flex-main-data {
+    flex-wrap: wrap;
+  }
+  .find-address-box,
+  footer .contact-details {
+    text-align: center;
+  }
+  .main-icons-box {
+    padding: 5px;
+  }
+  .training-employee-box .tab-option ul.tabs li,
+  .tab-parent .tab-btn {
+    font-size: 14px;
+  }
+  .table-box table th,
+  .table-box table tbody tr td {
+    padding: 2px 1px;
+    font-size: 9px;
+  }
+  .flex-table-heading-box {
+    flex-wrap: wrap;
+  }
+  .flex-table-heading-box .flex-item p,
+  .flex-table-heading-box .flex-item select {
+    font-size: 10px;
+  }
+  .flex-table-heading-box .flex-item {
+    gap: 20px;
+  }
+  .header-flex-main img {
+    width: 35%;
+    height: 10%;
+  }
+  .header-flex-main h2,
+  .header-flex-main span a {
+    font-size: 10px !important;
+  }
+  header.header-1 .main-header-wraper {
+    padding: 10px 0;
+  }
+  .header-flex-main {
+    align-items: center;
+  }
+  .main-employee-page-box{
+    margin-top: 0;
+  }
+  .main-login-section{
+    margin-top: 35px;
+  }
+  .chart-container{
+      height: 150px!important;
+      width: 150px!important;
+  }
+  .intxtchart{
+      font-size: 12px;
+  }
+  .dotcls{
+       height: 10px!important;
+      width: 10px!important;
+  }
+  .main-users-box-arc{
+      height: 75px;
+  }
+  .main-header-dashboard{
+      padding: 0;
+  }
+    .header-flex-main h3{
+   font-size: 10px;   
+  }
+  .header-flex-main span a{
+      padding: 5px!important;
+  }
+  .add-em-box, .add-employee-search{
+      padding: 10px;
+  }
+  .recenlty-addded-box{
+      padding: 10px;
+      height: 200px;
+      margin-bottom: 18px;
+  }
+  .emp-name-flex-box{
+      padding: 2px 8px;
+  }
+  .add-employee-search .ovay{
+      height: 200px;
+  }
+}
+@media only screen and (min-width: 1000px) and (max-width: 1200px) {
+  .main-box .graph-box, .graph-box-new, .graph-box-new-avts, .graph-box-new-uild, .graph-box-new-sml{
+    height: 100%;
+  }
+  .table-box table tbody tr td{
+    font-size: 12px!important;
+  }
+  .wid3{
+    width: none;
+  }
+  .flex-table-heading-box .flex-item select{
+    font-size: 10px;
+  }
+  .flex-table-heading-box .flex-item p{
+    font-size: 10px;
+  }
+  .flex-table-heading-box p{
+    font-size: 12px;
+  }
+  .slection-option select {
+    margin-left: -25px;
+  }
+  .data-show-suggesstion {
+    height: 88px;
+  }
+  .add-employee-search .ovay{
+    height: 585px;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1800px) {
+  .main-box .graph-box,
+  .graph-box-new,
+  .graph-box-new-avts,
+  .graph-box-new-uild,
+  .graph-box-new-sml {
+    width: 100%;
+  }
+  .main-box .graph-box .tabs,
+  .main-box-tem .graph-box-tem .tabs,
+  .graph-box-new .tabs-new,
+  .graph-box-new-avts .tabs-new,
+  .graph-box-new-uild .tabs-new,
+  .graph-box-new-sml .tabs-new,
+  .main-box-tem .graph-box-tem .tabs,
+  .main-box-tem .graph-box-tem-test .tabs,
+  .main-box-assessment .graph-box-assessment .tabs,
+  .main-box-assessment .graph-box-assessment-st .tabs,
+  .box-rates-graphs .graph-box .tabs,
+  .box-rates-graphs2 .graph-box .tabs,
+  .box-rates-graphs3 .graph-box .tabs,
+  .box-rates-training .graph-box .tabs {
+    flex-wrap: wrap;
+  }
+  .fs14 {
+    font-size: 12px;
+  }
+  .main-dashboard-content-box .flex-main-data .main-box .total-user-box {
+    padding: 10px;
+  }
+  .main-employee-page-box .box-rates{
+    padding: 10px;
+  }
+  .main-employee-page-box .box-rates h3{
+    font-size: 20px;
+  }
+  .slection-option select {
+    margin-left: -25px;
+  }
+  .add-employee-search .ovay{
+    height: 578px;
+  }
+}
+
+@media only screen and (min-width: 1700px) and (max-width: 1800px) {
+    .main-users-box-arc{
+        height: 98px;
+    }
+}
+@media only screen and (min-width: 1600px) and (max-width: 1700px) {
+    .main-users-box-arc{
+        height: 96px;
+    }
+}
+@media only screen and (min-width: 1500px) and (max-width: 1600px) {
+    .main-users-box-arc{
+        height: 90px;
+    }
+}
+@media only screen and (min-width: 1400px) and (max-width: 1500px) {
+    .main-users-box-arc{
+        height: 90px;
+    }
+}
+@media only screen and (min-width: 1300px) and (max-width: 1400px) {
+    .main-users-box-arc{
+        height: 85px;
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1300px) {
+    .main-users-box-arc{
+        height: 80px;
+    }
+}
+
+@media only screen and (min-width: 1100px) and (max-width: 1200px) {
+    .main-users-box-arc{
+        height: 72px;
+    }
+}
+
+@media only screen and (min-width: 1000px) and (max-width: 1100px) {
+    .main-users-box-arc{
+        height: 62px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
